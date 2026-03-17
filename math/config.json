@@ -1,0 +1,9 @@
+{
+    "outcomes" : [
+        {"id" : 1, "result" : "heads", "multiplier" : 2, "weight" : 48 },
+        {"id" : 2, "result" : "tails", "multiplier" : 0, "weight" : 52 }
+
+    ],
+    "totalWeight" : 100
+
+}
